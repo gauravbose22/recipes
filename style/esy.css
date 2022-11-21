@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+
+h2{
+    font: 3em sans-serif ;
+    color: white;
+    position: fixed;
+    left: 15cm;
+}
+
+img{
+    position: fixed;
+    left: 12cm;
+    margin-top: 5cm;
+}
+
+p{
+    position: fixed;
+    top: 16cm;
+    left: 10cm;
+    color:blueviolet;
+}

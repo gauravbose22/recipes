@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+
+h1{
+    font: 15em sans-serif ;
+    color: aqua;
+}
+
+ul{
+   list-style: none;
+   margin-top: -30px;
+}
+
+li{
+    display: inline;
+    font-size: 3em;
+    margin-left: 100px;
+}
